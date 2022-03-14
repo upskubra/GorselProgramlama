@@ -1,0 +1,11 @@
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\bin\Debug\OdevAsal00.exe.config
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\bin\Debug\OdevAsal00.exe
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\bin\Debug\OdevAsal00.pdb
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.csproj.AssemblyReference.cache
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.csproj.SuggestedBindingRedirects.cache
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.Form1.resources
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.Properties.Resources.resources
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.csproj.GenerateResource.cache
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.csproj.CoreCompileInputs.cache
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.exe
+C:\Users\devku\OneDrive\Masaüstü\GorselProgramlama\OdevAsal00\OdevAsal00\obj\Debug\OdevAsal00.pdb

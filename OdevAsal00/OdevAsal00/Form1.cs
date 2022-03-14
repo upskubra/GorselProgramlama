@@ -16,5 +16,42 @@ namespace OdevAsal00
         {
             InitializeComponent();
         }
+
+
+
+        private void button_check_Click(object sender, EventArgs e)
+        {
+            int number = Decimal.ToInt32(numericUpDown.Value);
+            label_number.Text = number.ToString();
+
+            if (check(number))
+            {
+                label_result.Text = "ASAL";
+
+            }
+            else
+            {
+                label_result.Text = "ASAL DEĞİL";
+
+            }
+
+        }
+
+        public bool check(int number)
+        {
+
+            for (int i = 2; i < number / 2; i++)
+                if (number % i == 0)
+                {
+                    return false;
+                }
+
+            return true;
+
+
+
+        }
+
+
     }
 }
